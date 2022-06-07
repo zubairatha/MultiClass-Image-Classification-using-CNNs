@@ -1,7 +1,7 @@
 # Football Team Name Multi Classifier
 
 ## TensorFlow Mutiple Image Classification using CNN's
-This is a binary image classification project using Convolutional Neural Networks and TensorFlow API on Python 3. It classifies the players into six reputed football teams - Arsenal, Chelsea, Liverpool, Man City, Man Utd, and Liverpool
+This is a multiple image classification project using Convolutional Neural Networks and TensorFlow API on Python 3. It classifies the players into six reputed football teams - Arsenal, Chelsea, Liverpool, Man City, Man Utd, and Liverpool
 
 It is a ready-to-run code.
 ## Dependencies
