@@ -20,7 +20,7 @@ This is a repository containing datasets of 852 training images and testing imag
 ## Flask web-app
 
 Run:
-```pip install -r requirements.txt```
+```python app.py```
 
 ## Result
 
