@@ -10,7 +10,7 @@ It is a ready-to-run code.
 
 ## Notebook
 
-```jupyter lab TeamClassification.ipynb ``` or ```jupyter notebook TeamClassification.ipynb ```
+```jupyter lab TeamClassification.ipynb ```  or  ```jupyter notebook TeamClassification.ipynb ```
 
 ## Data
 
@@ -30,3 +30,7 @@ Run:
 ![Web-App Result Image 4](/result/tw5.png)
 ![Web-App Result Image 5](/result/tw7.png)
 ![Web-App Result Image 6](/result/tw8.png)
+
+## Deep Dive
+
+[Click Here](https://twitter.com/zubairftbl/status/1534196756245647360)
